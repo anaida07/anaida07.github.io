@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-13T01:12:41+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aneeta Sharma</title><subtitle>A blog about technology and other stuffs</subtitle><entry><title type="html">Inside the book — Full-Stack Web Development with Vue.js and Node</title><link href="http://localhost:4000/inside-the-book-full-stack-web-development-with-vuejs-and-node/" rel="alternate" type="text/html" title="Inside the book — Full-Stack Web Development with Vue.js and Node" /><published>2018-05-16T22:44:00+05:45</published><updated>2018-05-16T22:44:00+05:45</updated><id>http://localhost:4000/inside-the-book-full-stack-web-development-with-vuejs-and-node</id><content type="html" xml:base="http://localhost:4000/inside-the-book-full-stack-web-development-with-vuejs-and-node/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/inside_the_book/bookcover.png&quot; alt=&quot;Book Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, after a long awaited time, the book is here. I just completed writing a book, &lt;strong&gt;Full Stack Web Development with Vue.js and Node&lt;/strong&gt; which talks about how we can build web applications using the technologies in MEVN stack i.e. (MongoDB, Express.js, Vue.js and Node.js). More details on the book can be found here(&lt;a href=&quot;https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node&quot;&gt;https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node&lt;/a&gt;) in Packt Publishing.&lt;/p&gt;
+
+&lt;p&gt;If you are a web developer and want to try hands on building web applications learning just one programming language i.e. JavaScript, then this book is for you.&lt;/p&gt;
+
+&lt;p&gt;The book guides you through the technology stack called &lt;strong&gt;MEVN&lt;/strong&gt; which just replaces the frontend layer of &lt;a href=&quot;https://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt; from MEAN or &lt;a href=&quot;https://reactjs.org/&quot;&gt;React.js&lt;/a&gt; from MERN and introduces &lt;a href=&quot;https://vuejs.org/&quot;&gt;Vue.js&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This book guides you through building a web application with Express.js which is a Node.js framework followed by adding the database layer with MongoDB and then the frontend layer with Vue.js to create a robust application.&lt;/p&gt;
+
+&lt;h1 id=&quot;who-the-book-is-for&quot;&gt;Who the book is for?&lt;/h1&gt;
+
+&lt;p&gt;This book is suitable for people who have the basic understanding of the following things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Knowledge of HTML, CSS and JavaScript&lt;/li&gt;
+  &lt;li&gt;Knowledge of MVC architecture&lt;/li&gt;
+  &lt;li&gt;Knowledge of MEAN and MERN stacks is the cherry to the cake&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;key-takeaways-from-this-book&quot;&gt;Key takeaways from this book&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn to install Node.js and other software packages required to build a full application&lt;/li&gt;
+  &lt;li&gt;Build an application using Express.js&lt;/li&gt;
+  &lt;li&gt;Create Schemas using Mongoose&lt;/li&gt;
+  &lt;li&gt;Build RESTful APIs using Express.js&lt;/li&gt;
+  &lt;li&gt;Build a Single Page Application using Vue.js and Express.js&lt;/li&gt;
+  &lt;li&gt;Learn to leverage Vuex to build complex applications&lt;/li&gt;
+  &lt;li&gt;Add test cases to improve the reliability of the application&lt;/li&gt;
+  &lt;li&gt;Add authorization using passport.js and learn about several Oauth Strategies that passport.js provides&lt;/li&gt;
+  &lt;li&gt;Learn how to deploy apps on Heroku using Github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;sneak-peek-of-the-application&quot;&gt;Sneak peek of the application&lt;/h1&gt;
+&lt;p&gt;Throughout the book, we will be building a movie rating application with the following features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A home page that lists all the movies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/inside_the_book/movie_listing_page.png&quot; alt=&quot;Movies List&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ability to add movies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/inside_the_book/add_movies.png&quot; alt=&quot;Add Movies&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ability for users to sign up and sign in — using both local authentication along with several OAuth Strategies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/inside_the_book/sign_in.png&quot; alt=&quot;User Sign In&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The user will be able to rate a movie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/inside_the_book/rate_movie.png&quot; alt=&quot;Rate Movies&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;start-reading-the-book&quot;&gt;Start Reading the Book&lt;/h1&gt;
+&lt;p&gt;You can grab yourself a copy from Amazon from the following link: &lt;a href=&quot;https://www.amazon.co.uk/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1526455991&amp;amp;sr=1-1&amp;amp;keywords=aneeta+sharma&quot;&gt;Full-Stack Web Development with Vue.js and Node&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, there is a launch discount as well for the ebook version which you can get from Packt Publishing here: &lt;a href=&quot;https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node&quot;&gt;https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="JavaScript" /><category term="Vuejs" /><category term="Nodejs" /><category term="Expressjs" /><category term="Software Development" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/bookcover.png" /></entry><entry><title type="html">Running Rubocop Only On Modified Files</title><link href="http://localhost:4000/running-rubocop-only-on-modified-files/" rel="alternate" type="text/html" title="Running Rubocop Only On Modified Files" /><published>2017-04-20T22:44:00+05:45</published><updated>2017-04-20T22:44:00+05:45</updated><id>http://localhost:4000/running-rubocop-only-on-modified-files</id><content type="html" xml:base="http://localhost:4000/running-rubocop-only-on-modified-files/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/rubocop.jpeg&quot; alt=&quot;Rubocop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are using Rubocop as a code analyzer and following its guidelines as a standard for your project, then like me you also might have faced the annoyance of running Rubocop on each and every modified file individually. Its boring and a little time consuming as well. Hence, its lot more productive to run it only on the updated files and for once.
+There are two ways to run Rubocop on modified files:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[1] Before committing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To view the list of files that have been modified, you can do:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git ls-files -m
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This lists all the modified files regardless of the extensions as well as the deleted files. To exclude deleted files you can do:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git ls-files -m | xargs ls -1 2&amp;gt;/dev/null
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Again, if you wish to view only the modified files with .rb extension, you can do:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git ls-files -m | xargs ls -1 2&amp;gt;/dev/null | grep '\.rb$'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Hence, the final command to run Rubocop for modified files is:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git ls-files -m | xargs ls -1 2&amp;gt;/dev/null | grep '\.rb$' | xargs rubocop
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;[2] After committing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two ways to view the list of changed files after you have committed. First is to compare the changes with master or you can compare it with the current upstream.&lt;/p&gt;
+
+&lt;p&gt;To compare with master:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git diff-tree -r --no-commit-id --name-only head origin/master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To compare with current upstream:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git diff-tree -r --no-commit-id --name-only @\{u\} head
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Note: This won’t work if you haven’t yet set up a remote branch.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hence, the file command to run Rubocop for modified files is:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git diff-tree -r --no-commit-id --name-only head origin/master | xargs rubocop
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git diff-tree -r --no-commit-id --name-only @\{u\} head | xargs rubocop
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;With this, you will be saving quite a time. To top if off, you can also create aliases for these.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="Git" /><category term="Github" /><category term="Rubocop" /><category term="Refactoring" /><category term="Software Engineering" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rubocop.jpg" /></entry><entry><title type="html">How Reading Can Transform Your Life</title><link href="http://localhost:4000/how-reading-can-transform-your-life/" rel="alternate" type="text/html" title="How Reading Can Transform Your Life" /><published>2017-04-16T22:44:00+05:45</published><updated>2017-04-16T22:44:00+05:45</updated><id>http://localhost:4000/how-reading-can-transform-your-life</id><content type="html" xml:base="http://localhost:4000/how-reading-can-transform-your-life/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/reading.jpeg&quot; alt=&quot;Reading&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Reading is to the mind what exercise is to your body.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recently I have been on a series of reading, getting my hands on anything I find. No matter what I read, there’s always something new to learn. From a non reader to becoming a reader, it has shown me how a simple act of reading can help improve the various aspects of our life. To name a few, here’s how one can benefit when you crack open a book:&lt;/p&gt;
+
+&lt;h1 id=&quot;stress-reduction&quot;&gt;Stress Reduction&lt;/h1&gt;
+&lt;p&gt;No matter how much stressed you are at work or in your personal life, reading can easily melt away that stress by distraction. It transports you to another world where you don’t think about the hardships of day to day life.
+Reading puts you into a good mood.&lt;/p&gt;
+
+&lt;h1 id=&quot;tranquility&quot;&gt;Tranquility&lt;/h1&gt;
+
+&lt;p&gt;Reading can bring immense inner peace. It brings an inner state of being calm. The concentration you put while reading soothes and helps remove anxiety.&lt;/p&gt;
+
+&lt;h1 id=&quot;increased-vocabulary&quot;&gt;Increased Vocabulary&lt;/h1&gt;
+&lt;p&gt;Reading is a workout to your brain. Whether you are scanning the book or deeply concentrating on it, you are feeding your brain something new. You can always read books to expand your mental dictionary.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A reader lives a thousand lives before he dies. The man who never reads lives only one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Reading encourages positive thinking, improves empathy, improves concentration and keeps the brain young. When you start to read more, you will discover more reasons to stick with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Want to find out more reasons? Why not grab a book and start reading ;)&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="Books" /><category term="Reading" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/reading.jpg" /></entry></feed>
