@@ -9,7 +9,6 @@ tag:
 - Rubocop
 - Refactoring
 - Software Engineering
-star: false
 description: A better way to use Rubocop
 category: blog
 ---
