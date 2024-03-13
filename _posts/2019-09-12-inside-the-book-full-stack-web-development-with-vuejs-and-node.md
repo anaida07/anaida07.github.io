@@ -62,6 +62,6 @@ Throughout the book, we will be building a movie rating application with the fol
 ![Rate Movies]({{ site.url }}/{{ site.rate_movie }})
 
 # Start Reading the Book
-You can grab yourself a copy from Amazon from the following link: [Full-Stack Web Development with Vue.js and Node](https://www.amazon.co.uk/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144/ref=sr_1_1?s=books&ie=UTF8&qid=1526455991&sr=1-1&keywords=aneeta+sharma)
+You can grab yourself a copy from Amazon from the following link: [Full-Stack Web Development with Vue.js and Node](https://www.amazon.co.uk/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144/ref=sr_1_1?s=books&ie=UTF8&qid=1526455991&sr=1-1&keywords=anita+sharma)
 
 Also, there is a launch discount as well for the ebook version which you can get from Packt Publishing here: [https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node)
