@@ -1,6 +1,6 @@
 # main text of home
-name: Anita Sharma
-bio: Software Engineer
+name: Aneeta Sharma
+bio: Software Engineer - Author of Full-Stack Web Development with Vue.js and Node - Packt Publishing
 
 # twitter summary info
 description: A blog about technology and other stuffs
@@ -38,7 +38,7 @@ analytics-google: 'UA-25492178-3'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: http-anitasharma-com-np # enter this from your disqus account
+  shortname: http-aneetasharma-com-np # enter this from your disqus account
   categories: ["blog"] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -62,8 +62,8 @@ medium: anaida07
 email: get.aneeta@gmail.com
 
 authors:
-    anitasharma:
-        name: Anita Sharma
+    aneetasharma:
+        name: Aneeta Sharma
         bio: Software Engineer - Author of Full-Stack Web Development with Vue.js and Node - Packt Publishing
         external-image: false
         picture: assets/images/profile.jpg
